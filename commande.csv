@@ -1,0 +1,5 @@
+NCom(INT)|NClient(INT)|NVin(INT)|Date(VARCHAR)|Quantité(INT)
+1|5|4|27/04/12|25
+2|3|2|25/01/13|100
+3|2|2|14/08/09|80
+4|5|1|08/11/10|100

@@ -1,0 +1,6 @@
+NVin(INT)|Cru(VARCHAR)|Millesime(INT)|Viticulteur(INT)|Region(VARCHAR)
+1|Saint-Emilion|2002|1|Bordeaux
+2|Champagne|1996|3|Champagne
+3|Pauillac|1992|1|Bordeaux
+3|Pauillac|1992|1|Bordeaux
+|Chablis|2007|6|Bourgogne

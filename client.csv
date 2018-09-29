@@ -1,0 +1,5 @@
+NUM(INT)|Nom(VARCHAR)|Prenom(VARCHAR)|Region(VARCHAR)
+2|Voser|Armande|Alsace
+3|Hermelin|Jean-Pierre|Champagne
+5|Senard|Danièle|Champagne
+6|Schmidt|Thomas|Bourgogne
